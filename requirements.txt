@@ -1,0 +1,9 @@
+Django
+djangorestframework
+djangorestframework-jwt==1.11.0
+python-decouple
+messagebird
+django-cors-headers
+gunicorn==19.7.1
+PyJWT==1.6.1
+pytz==2018.3
